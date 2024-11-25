@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">vertani</string>
+    <string name="app_logo">app_logo</string>
+    <string name="main_image">main_image</string>
+    <string name="scroll_indicator">scroll_indicator</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="masuk">Masuk</string>
+    <string name="lupa_kata_sandi">Lupa Kata Sandi ?</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="alamat_email">Alamat Email</string>
+    <string name="silahkan_masuk_ke_akun_anda">Silahkan Masuk Ke Akun Anda</string>
+    <string name="register_title">Silahkan Masukkan Informasi berikut untuk mendaftarkan diri</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="home">Home</string>
+    <string name="chat">Chatbot</string>
+    <string name="tips">Tips</string>
+    <string name="account">Account</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chatbot</string>
+    <string name="title_tips">Tips</string>
+    <string name="title_account">Account</string>
+    <string name="Register">Belum punya akun?</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="Daftar">Daftar</string>
+</resources>
