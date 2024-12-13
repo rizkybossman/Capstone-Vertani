@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229081256062",
+    "project_id": "vertani",
+    "storage_bucket": "vertani.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229081256062:android:31bb2922a0b3e4d976c82f",
+        "android_client_info": {
+          "package_name": "com.dicoding.vertani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpiC5bIXgPMcE5WszYANEqtYQT9cuvUSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
