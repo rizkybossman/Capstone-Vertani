@@ -75,7 +75,7 @@ dependencies {
 
     // Google Play Services & Authentication
     implementation(libs.play.services.auth)
-    implementation(libs.googleid) // Google ID Library
+    implementation(libs.googleid) 
 
     // Image Loading
     implementation(libs.glide)
