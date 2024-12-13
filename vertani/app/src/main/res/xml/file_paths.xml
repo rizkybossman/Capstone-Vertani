@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Mengizinkan akses ke folder gambar dalam penyimpanan eksternal -->
+    <external-path
+        name="external_files"
+        path="Android/data/com.dicoding.vertani/files/Pictures/" />
+</paths>

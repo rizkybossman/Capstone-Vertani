@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">vertani</string>
+    <string name="app_logo">app_logo</string>
+    <string name="main_image">main_image</string>
+    <string name="scroll_indicator">scroll_indicator</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="masuk">Masuk</string>
+    <string name="lupa_kata_sandi">Lupa Kata Sandi ?</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="alamat_email">Alamat Email</string>
+    <string name="title_login">Silahkan Masuk Ke Akun Anda</string>
+    <string name="register_title">Silahkan Masukkan Informasi berikut untuk mendaftarkan diri</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="home">Home</string>
+    <string name="chat">Chatbot</string>
+    <string name="tips">Tips</string>
+    <string name="account">Account</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chatbot</string>
+    <string name="title_tips">Tips</string>
+    <string name="title_account">Account</string>
+    <string name="Register">Belum punya akun?</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="Daftar">Daftar</string>
+    <string name="preview_image">Preview image</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galerry</string>
+    <string name="description">deskripsi</string>
+    <string name="upload">Analyz</string>
+    <string name="Username">Username</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="back">Back</string>
+    <string name="profil">Profil</string>
+    <string name="headline">Selamat Datang di vertani ayok mulai menanam</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="rekomendasi">rekomendasi</string>
+    <string name="recomendation">rekomendasi</string>
+    <string name="title_forgotpw">Silahkan Masukan Email Akun Anda</string>
+    <string name="Reset">Reset</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="prediction">prediction\n</string>
+
+</resources>
